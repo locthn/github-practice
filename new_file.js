@@ -1,0 +1,1 @@
+console.log('this graph take to much code')
